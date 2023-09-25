@@ -1,0 +1,3 @@
+- 👋 Hi, saya Iqbal Dzulfiqar Sirojuddin
+- 👀 NIM 2241035
+- 🌱 Matkul Pemrograman Web
